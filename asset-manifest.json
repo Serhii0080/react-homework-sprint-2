@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-homework-sprint-2/static/css/main.22e01cb5.css",
-    "main.js": "/react-homework-sprint-2/static/js/main.f7497824.js",
+    "main.js": "/react-homework-sprint-2/static/js/main.a6020c00.js",
     "static/js/787.66cb4309.chunk.js": "/react-homework-sprint-2/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/react-homework-sprint-2/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/checked.svg": "/react-homework-sprint-2/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/react-homework-sprint-2/index.html",
     "main.22e01cb5.css.map": "/react-homework-sprint-2/static/css/main.22e01cb5.css.map",
-    "main.f7497824.js.map": "/react-homework-sprint-2/static/js/main.f7497824.js.map",
+    "main.a6020c00.js.map": "/react-homework-sprint-2/static/js/main.a6020c00.js.map",
     "787.66cb4309.chunk.js.map": "/react-homework-sprint-2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22e01cb5.css",
-    "static/js/main.f7497824.js"
+    "static/js/main.a6020c00.js"
   ]
 }
