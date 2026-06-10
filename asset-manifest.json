@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/react-homework-sprint-2/static/css/main.31c0a466.css",
-    "main.js": "/react-homework-sprint-2/static/js/main.27f0e9c2.js",
+    "main.css": "/react-homework-sprint-2/static/css/main.22e01cb5.css",
+    "main.js": "/react-homework-sprint-2/static/js/main.f7497824.js",
     "static/js/787.66cb4309.chunk.js": "/react-homework-sprint-2/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/react-homework-sprint-2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/checked.svg": "/react-homework-sprint-2/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/react-homework-sprint-2/index.html",
-    "main.31c0a466.css.map": "/react-homework-sprint-2/static/css/main.31c0a466.css.map",
-    "main.27f0e9c2.js.map": "/react-homework-sprint-2/static/js/main.27f0e9c2.js.map",
+    "main.22e01cb5.css.map": "/react-homework-sprint-2/static/css/main.22e01cb5.css.map",
+    "main.f7497824.js.map": "/react-homework-sprint-2/static/js/main.f7497824.js.map",
     "787.66cb4309.chunk.js.map": "/react-homework-sprint-2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31c0a466.css",
-    "static/js/main.27f0e9c2.js"
+    "static/css/main.22e01cb5.css",
+    "static/js/main.f7497824.js"
   ]
 }
