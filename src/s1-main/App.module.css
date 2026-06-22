@@ -3,7 +3,6 @@
     font-weight: 600;
     font-size: 22px;
     color: #000;
-    padding-top: 130px;
     max-width: 1280px;
     margin: auto;
 }
@@ -17,5 +16,5 @@
 }
 
 .hwTitle {
-    padding: 0 70px;
+    padding: 47px 70px 10px;
 }
