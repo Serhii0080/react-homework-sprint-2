@@ -43,3 +43,13 @@ Builds the app for production.
 ### `yarn test`
 
 Runs tests in watch mode.
+
+### `yarn deploy`
+
+Builds the project and publishes the `build` folder to GitHub Pages.
+
+Use this command for manual deploy:
+
+```bash
+yarn deploy
+```
