@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+ import React, {useState} from 'react'
 import {homeWorkReducer} from './bll/homeWorkReducer'
 import s from './HW8.module.css'
 import s2 from '../../s1-main/App.module.css'
