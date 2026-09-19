@@ -5,6 +5,7 @@ import {loadingAC} from './bll/loadingReducer'
 import {Loader} from './Loader'
 import {useAppDispatch} from "./useAppDispatch";
 import {useAppSelector} from "./useAppSelector";
+import s from './Loader.module.css'
 
 /*
 * 1 - в файле loadingReducer.ts дописать типы и логику
@@ -44,6 +45,7 @@ const HW10 = () => {
               <SuperButton
                   id={'hw10-button-start-loading'}
                   onClick={setLoading}
+                  className={s.button}
               >
                 Set loading...
               </SuperButton>
