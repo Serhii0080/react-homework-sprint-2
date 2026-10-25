@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/react-homework-sprint-2/static/css/main.04d2f861.css",
-    "main.js": "/react-homework-sprint-2/static/js/main.785aec95.js",
+    "main.css": "/react-homework-sprint-2/static/css/main.ce662a57.css",
+    "main.js": "/react-homework-sprint-2/static/js/main.7eda9e8f.js",
     "static/js/787.66cb4309.chunk.js": "/react-homework-sprint-2/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/react-homework-sprint-2/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/react-homework-sprint-2/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
     "static/media/Loading.svg": "/react-homework-sprint-2/static/media/Loading.3223de54e5ee6f9c879acc68ef32b274.svg",
     "static/media/closeOutline.svg": "/react-homework-sprint-2/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
     "static/media/editIcon.svg": "/react-homework-sprint-2/static/media/editIcon.0a0cefd2190b593b4f76bb1a5afe0c1f.svg",
+    "static/media/white.svg": "/react-homework-sprint-2/static/media/white.03cb5f39480ce47003c7.svg",
+    "static/media/black.svg": "/react-homework-sprint-2/static/media/black.a1c4e540a1f80651da05.svg",
     "static/media/checked.svg": "/react-homework-sprint-2/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/react-homework-sprint-2/index.html",
     "static/media/burger.svg": "/react-homework-sprint-2/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.04d2f861.css.map": "/react-homework-sprint-2/static/css/main.04d2f861.css.map",
-    "main.785aec95.js.map": "/react-homework-sprint-2/static/js/main.785aec95.js.map",
+    "main.ce662a57.css.map": "/react-homework-sprint-2/static/css/main.ce662a57.css.map",
+    "main.7eda9e8f.js.map": "/react-homework-sprint-2/static/js/main.7eda9e8f.js.map",
     "787.66cb4309.chunk.js.map": "/react-homework-sprint-2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04d2f861.css",
-    "static/js/main.785aec95.js"
+    "static/css/main.ce662a57.css",
+    "static/js/main.7eda9e8f.js"
   ]
 }
