@@ -12,7 +12,7 @@
 .watch {
     margin-bottom: 8px;
     font-size: 20px;
-    color: #000;
+    color: var(--color, #000);
 }
 
 .watch strong {
@@ -22,7 +22,7 @@
 .more {
     font-weight: 400;
     font-size: 16px;
-    color: rgba(0, 0, 0, 0.5);
+    color: var(--color, rgba(0, 0, 0, 0.5));
 }
 
 .buttons {

@@ -1,7 +1,7 @@
 .radio {
     display: flex;
     flex-direction: column;
-    accent-color: #000;
+    color: var(--color, #000);
     cursor: pointer;
 }
 
@@ -17,7 +17,7 @@
     gap: 10px;
     font-weight: 400;
     font-size: 16px;
-    color: #000;
+    color: var(--color, #000);
     cursor: pointer;
 }
 

@@ -6,7 +6,7 @@
 .hw {
     display: flex;
     flex-direction: column;
-    border: 1px solid #d9d9d9;
+    border: 1px solid var(--stripe-color, #d9d9d9);
     border-right: none;
     border-left: none;
     min-height: 336px;
@@ -16,6 +16,6 @@
 .hwTitle {
     font-weight: 600;
     font-size: 22px;
-    color: #000;
+    color: var(--color);
     padding: 47px 70px 10px;
 }

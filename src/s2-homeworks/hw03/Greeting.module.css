@@ -74,11 +74,11 @@
 .text {
     font-weight: 400;
     font-size: 14px;
-    color: rgba(0, 0, 0, 0.5);
+    color: var(--color, rgba(0, 0, 0, 0.5));
 }
 
 .greeting {
     font-weight: 500;
     font-size: 14px;
-    color: #000;
+    color: var(--color, #000);
 }
