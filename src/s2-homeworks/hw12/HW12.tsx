@@ -16,7 +16,7 @@ import s from './HW12.module.css'
 const themes = [
   {id: 1, value: 'light'},
   {id: 2, value: 'blue'},
-  {id: 3, value: 'bark'},
+  {id: 3, value: 'dark'},
 ]
 
 const HW12 = () => {
